@@ -1,0 +1,192 @@
+{"filepath": "../data/dataFull/1625597040-1625597940.csv", "min_dists": {"wc": 0.005620169545165118, "tap water": 0.0053893784985157185}, "class": "tap water"}
+{"filepath": "../data/dataFull/1625597040-1625597940.csv", "min_dists": {"wc": 0.007044188377660854, "tap water": 0.005721077138138942}, "class": "tap water"}
+{"filepath": "../data/dataFull/1625615040-1625615940.csv", "min_dists": {"wc": 0.006429203288156875, "tap water": 0.005065977551168819}, "class": "wc"}
+{"filepath": "../data/dataFull/1625633040-1625633940.csv", "min_dists": {"wc": 0.007205560195337086, "tap water": 0.005649350477466007}, "class": "tap water"}
+{"filepath": "../data/dataFull/1625633040-1625633940.csv", "min_dists": {"wc": 0.007492268951510973, "tap water": 0.006743684770204464}, "class": "tap water"}
+{"filepath": "../data/dataFull/1625633040-1625633940.csv", "min_dists": {"wc": 0.007681794115307817, "tap water": 0.007881763837635307}, "class": "tap water"}
+{"filepath": "../data/dataFull/1625633040-1625633940.csv", "min_dists": {"wc": 0.005294915860210451, "tap water": 0.005190851004073595}, "class": "tap water"}
+{"filepath": "../data/dataFull/1625633040-1625633940.csv", "min_dists": {"wc": 0.007076496444803531, "tap water": 0.004660068496713435}, "class": "tap water"}
+{"filepath": "../data/dataFull/1625633040-1625633940.csv", "min_dists": {"wc": 0.005960939648168763, "tap water": 0.004208254638026974}, "class": "tap water"}
+{"filepath": "../data/dataFull/1625633040-1625633940.csv", "min_dists": {"wc": 0.005647045633532805, "tap water": 0.00489035833894714}, "class": "tap water"}
+{"filepath": "../data/dataFull/1625633040-1625633940.csv", "min_dists": {"wc": 0.003953992119152128, "tap water": 0.004597313558771788}, "class": "tap water"}
+{"filepath": "../data/dataFull/1625561940-1625562840.csv", "min_dists": {"wc": 0.008763114343811598, "tap water": 0.008652043951960998}, "class": "tap water"}
+{"filepath": "../data/dataFull/1625561940-1625562840.csv", "min_dists": {"wc": 0.005672781633987972, "tap water": 0.005291812159390132}, "class": "tap water"}
+{"filepath": "../data/dataFull/1625633940-1625634840.csv", "min_dists": {"wc": 0.009529306528590761, "tap water": 0.0099809772507895}, "class": "tap water"}
+{"filepath": "../data/dataFull/1625633940-1625634840.csv", "min_dists": {"wc": 0.018049484979466374, "tap water": 0.02002545419270647}, "class": "tap water"}
+{"filepath": "../data/dataFull/1625651940-1625652840.csv", "min_dists": {"wc": 0.008310733875962501, "tap water": 0.010249675288381124}, "class": "tap water"}
+{"filepath": "../data/dataFull/1625651940-1625652840.csv", "min_dists": {"wc": 0.005507881348039412, "tap water": 0.004573178769773139}, "class": "tap water"}
+{"filepath": "../data/dataFull/1625651940-1625652840.csv", "min_dists": {"wc": 0.006928367810559234, "tap water": 0.006342219961572769}, "class": "tap water"}
+{"filepath": "../data/dataFull/1625651940-1625652840.csv", "min_dists": {"wc": 0.008179113987416026, "tap water": 0.01084727059116884}, "class": "tap water"}
+{"filepath": "../data/dataFull/1625580840-1625581740.csv", "min_dists": {"wc": 0.005168147144576451, "tap water": 0.004275122319713597}, "class": "tap water"}
+{"filepath": "../data/dataFull/1625580840-1625581740.csv", "min_dists": {"wc": 0.008958579139784902, "tap water": 0.0072414035806793705}, "class": "tap water"}
+{"filepath": "../data/dataFull/1625598840-1625599740.csv", "min_dists": {"wc": 0.0051979208620567315, "tap water": 0.004037871306563485}, "class": "tap water"}
+{"filepath": "../data/dataFull/1625616840-1625617740.csv", "min_dists": {"wc": 0.007986886911352815, "tap water": 0.0072867719369965455}, "class": "tap water"}
+{"filepath": "../data/dataFull/1625634840-1625635740.csv", "min_dists": {"wc": 0.004886566671175966, "tap water": 0.0036046864515722047}, "class": "wc"}
+{"filepath": "../data/dataFull/1625634840-1625635740.csv", "min_dists": {"wc": 0.004782646843198751, "tap water": 0.0043923745399642115}, "class": "wc"}
+{"filepath": "../data/dataFull/1625634840-1625635740.csv", "min_dists": {"wc": 0.006156070343830492, "tap water": 0.005680510711307533}, "class": "tap water"}
+{"filepath": "../data/dataFull/1625652840-1625653740.csv", "min_dists": {"wc": 0.007481969025420694, "tap water": 0.0064393449889721555}, "class": "wc"}
+{"filepath": "../data/dataFull/1625616840-1625617740.csv", "min_dists": {"wc": 0.01007347061400349, "tap water": 0.007539825413387931}, "class": "wc"}
+{"filepath": "../data/dataFull/1625616840-1625617740.csv", "min_dists": {"wc": 0.008133558120119575, "tap water": 0.008016097485750958}, "class": "wc"}
+{"filepath": "../data/dataFull/1625616840-1625617740.csv", "min_dists": {"wc": 0.008106336132142053, "tap water": 0.007409511110899047}, "class": "tap water"}
+{"filepath": "../data/dataFull/1625616840-1625617740.csv", "min_dists": {"wc": 0.008000250337416807, "tap water": 0.0071460794703217265}, "class": "tap water"}
+{"filepath": "../data/dataFull/1625616840-1625617740.csv", "min_dists": {"wc": 0.008104104931898474, "tap water": 0.007607137310842109}, "class": "tap water"}
+{"filepath": "../data/dataFull/1625616840-1625617740.csv", "min_dists": {"wc": 0.007993480129909183, "tap water": 0.00773473639138952}, "class": "tap water"}
+{"filepath": "../data/dataFull/1625616840-1625617740.csv", "min_dists": {"wc": 0.007930170344263134, "tap water": 0.007428141637389832}, "class": "tap water"}
+{"filepath": "../data/dataFull/1625616840-1625617740.csv", "min_dists": {"wc": 0.008019056381570671, "tap water": 0.007676803909056799}, "class": "tap water"}
+{"filepath": "../data/dataFull/1625616840-1625617740.csv", "min_dists": {"wc": 0.008181149836950442, "tap water": 0.008027234832755241}, "class": "tap water"}
+{"filepath": "../data/dataFull/1625616840-1625617740.csv", "min_dists": {"wc": 0.0076045614070188155, "tap water": 0.007266339430289457}, "class": "tap water"}
+{"filepath": "../data/dataFull/1625600640-1625601540.csv", "min_dists": {"wc": 0.004325169640736284, "tap water": 0.002990236734683879}, "class": "wc"}
+{"filepath": "../data/dataFull/1625600640-1625601540.csv", "min_dists": {"wc": 0.0054832094594061565, "tap water": 0.0044564966454876355}, "class": "wc"}
+{"filepath": "../data/dataFull/1625600640-1625601540.csv", "min_dists": {"wc": 0.00649631742950156, "tap water": 0.0065892856084871386}, "class": "tap water"}
+{"filepath": "../data/dataFull/1625566440-1625567340.csv", "min_dists": {"wc": 0.00438455543992247, "tap water": 0.0034646306929724045}, "class": "wc"}
+{"filepath": "../data/dataFull/1625566440-1625567340.csv", "min_dists": {"wc": 0.004460413629088346, "tap water": 0.004907835690000012}, "class": "tap water"}
+{"filepath": "../data/dataFull/1625566440-1625567340.csv", "min_dists": {"wc": 0.0074816222311243335, "tap water": 0.006023638039782849}, "class": "tap water"}
+{"filepath": "../data/dataFull/1625566440-1625567340.csv", "min_dists": {"wc": 0.009013526161065596, "tap water": 0.006572855760316275}, "class": "tap water"}
+{"filepath": "../data/dataFull/1625566440-1625567340.csv", "min_dists": {"wc": 0.006390280603597608, "tap water": 0.0057004100213701794}, "class": "tap water"}
+{"filepath": "../data/dataFull/1625566440-1625567340.csv", "min_dists": {"wc": 0.005502951029459244, "tap water": 0.006072354151376052}, "class": "tap water"}
+{"filepath": "../data/dataFull/1625566440-1625567340.csv", "min_dists": {"wc": 0.005897149701306724, "tap water": 0.006668816577708055}, "class": "tap water"}
+{"filepath": "../data/dataFull/1625566440-1625567340.csv", "min_dists": {"wc": 0.008065922321862241, "tap water": 0.008278682536752704}, "class": "tap water"}
+{"filepath": "../data/dataFull/1625662740-1625663640.csv", "min_dists": {"wc": 0.004656784106956866, "tap water": 0.003492088221289099}, "class": "wc"}
+{"filepath": "../data/dataFull/1625680740-1625681640.csv", "min_dists": {"wc": 0.00427578805794539, "tap water": 0.005367093331865735}, "class": "wc"}
+{"filepath": "../data/dataFull/1625680740-1625681640.csv", "min_dists": {"wc": 0.005936147600409728, "tap water": 0.0058862877351647976}, "class": "tap water"}
+{"filepath": "../data/dataFull/1625680740-1625681640.csv", "min_dists": {"wc": 0.008746696511856744, "tap water": 0.008411707995837877}, "class": "tap water"}
+{"filepath": "../data/dataFull/1625680740-1625681640.csv", "min_dists": {"wc": 0.004473261445635492, "tap water": 0.005536138552532025}, "class": "tap water"}
+{"filepath": "../data/dataFull/1625591640-1625592540.csv", "min_dists": {"wc": 0.003987381571264992, "tap water": 0.0038562262398016806}, "class": "wc"}
+{"filepath": "../data/dataFull/1625591640-1625592540.csv", "min_dists": {"wc": 0.006812434004606151, "tap water": 0.005462573515310643}, "class": "tap water"}
+{"filepath": "../data/dataFull/1625591640-1625592540.csv", "min_dists": {"wc": 0.005810562407868388, "tap water": 0.00474363792204592}, "class": "tap water"}
+{"filepath": "../data/dataFull/1625591640-1625592540.csv", "min_dists": {"wc": 0.0047385442098808244, "tap water": 0.004854733763410433}, "class": "tap water"}
+{"filepath": "../data/dataFull/1625591640-1625592540.csv", "min_dists": {"wc": 0.0066546437549891875, "tap water": 0.004577744194207708}, "class": "tap water"}
+{"filepath": "../data/dataFull/1625591640-1625592540.csv", "min_dists": {"wc": 0.005900340027486412, "tap water": 0.006820972818280375}, "class": "tap water"}
+{"filepath": "../data/dataFull/1625591640-1625592540.csv", "min_dists": {"wc": 0.006052596780963365, "tap water": 0.006521983735579126}, "class": "tap water"}
+{"filepath": "../data/dataFull/1625591640-1625592540.csv", "min_dists": {"wc": 0.006478492341218936, "tap water": 0.005064061628969368}, "class": "tap water"}
+{"filepath": "../data/dataFull/1625591640-1625592540.csv", "min_dists": {"wc": 0.00627416214336742, "tap water": 0.0059253458046356474}, "class": "tap water"}
+{"filepath": "../data/dataFull/1625591640-1625592540.csv", "min_dists": {"wc": 0.005744285298335023, "tap water": 0.005209597962857182}, "class": "tap water"}
+{"filepath": "../data/dataFull/1625591640-1625592540.csv", "min_dists": {"wc": 0.005134667933243959, "tap water": 0.004452066369725811}, "class": "tap water"}
+{"filepath": "../data/dataFull/1625591640-1625592540.csv", "min_dists": {"wc": 0.005533558910148591, "tap water": 0.0050834231875599425}, "class": "tap water"}
+{"filepath": "../data/dataFull/1625591640-1625592540.csv", "min_dists": {"wc": 0.006330018716231446, "tap water": 0.005091534897995124}, "class": "tap water"}
+{"filepath": "../data/dataFull/1625591640-1625592540.csv", "min_dists": {"wc": 0.005977724974389425, "tap water": 0.004899911303222815}, "class": "tap water"}
+{"filepath": "../data/dataFull/1625591640-1625592540.csv", "min_dists": {"wc": 0.005160485910920515, "tap water": 0.004804443273260656}, "class": "tap water"}
+{"filepath": "../data/dataFull/1625591640-1625592540.csv", "min_dists": {"wc": 0.0055312653484573746, "tap water": 0.004880454415429463}, "class": "tap water"}
+{"filepath": "../data/dataFull/1625591640-1625592540.csv", "min_dists": {"wc": 0.004676808999560001, "tap water": 0.004805327312409314}, "class": "tap water"}
+{"filepath": "../data/dataFull/1625591640-1625592540.csv", "min_dists": {"wc": 0.006148312812827939, "tap water": 0.004631214047802075}, "class": "tap water"}
+{"filepath": "../data/dataFull/1625591640-1625592540.csv", "min_dists": {"wc": 0.005173287744364864, "tap water": 0.004636999345158725}, "class": "tap water"}
+{"filepath": "../data/dataFull/1625591640-1625592540.csv", "min_dists": {"wc": 0.0048336219555873625, "tap water": 0.005452081812634657}, "class": "tap water"}
+{"filepath": "../data/dataFull/1625591640-1625592540.csv", "min_dists": {"wc": 0.007307052629646955, "tap water": 0.005549556767415404}, "class": "tap water"}
+{"filepath": "../data/dataFull/1625631240-1625632140.csv", "min_dists": {"wc": 0.0, "tap water": 0.003949180047588723}, "class": "wc"}
+{"filepath": "../data/dataFull/1625631240-1625632140.csv", "min_dists": {"wc": 0.0, "tap water": 0.007005013501987355}, "class": "wc"}
+{"filepath": "../data/dataFull/1625631240-1625632140.csv", "min_dists": {"wc": 0.005539282147099011, "tap water": 0.0}, "class": "tap water"}
+{"filepath": "../data/dataFull/1625631240-1625632140.csv", "min_dists": {"wc": 0.004678307028351616, "tap water": 0.0}, "class": "tap water"}
+{"filepath": "../data/dataFull/1625649240-1625650140.csv", "min_dists": {"wc": 0.0066948337622409915, "tap water": 0.005995020795667029}, "class": "wc"}
+{"filepath": "../data/dataFull/1625649240-1625650140.csv", "min_dists": {"wc": 0.005170831214322948, "tap water": 0.004986599528662915}, "class": "wc"}
+{"filepath": "../data/dataFull/1625649240-1625650140.csv", "min_dists": {"wc": 0.0048794959645240095, "tap water": 0.006534531484471404}, "class": "wc"}
+{"filepath": "../data/dataFull/1625649240-1625650140.csv", "min_dists": {"wc": 10000, "tap water": 0.006222520348571768}, "class": "tap water"}
+{"filepath": "../data/dataFull/1625649240-1625650140.csv", "min_dists": {"wc": 0.006106130562712815, "tap water": 0.005137828006596911}, "class": "tap water"}
+{"filepath": "../data/dataFull/1625649240-1625650140.csv", "min_dists": {"wc": 0.004730233075340178, "tap water": 0.005159010624273289}, "class": "tap water"}
+{"filepath": "../data/dataFull/1625649240-1625650140.csv", "min_dists": {"wc": 0.005501087909401551, "tap water": 0.0038609954010072186}, "class": "tap water"}
+{"filepath": "../data/dataFull/1625649240-1625650140.csv", "min_dists": {"wc": 0.005297199685282853, "tap water": 0.005808826416764573}, "class": "tap water"}
+{"filepath": "../data/dataFull/1625649240-1625650140.csv", "min_dists": {"wc": 0.004694283786836954, "tap water": 0.005004517142164888}, "class": "tap water"}
+{"filepath": "../data/dataFull/1625649240-1625650140.csv", "min_dists": {"wc": 0.00699039599793815, "tap water": 0.009237709947561446}, "class": "tap water"}
+{"filepath": "../data/dataFull/1625716800000000000-1625717700000000000.csv", "min_dists": {"wc": 0.006484320176392298, "tap water": 0.004533131450858767}, "class": "wc"}
+{"filepath": "../data/dataFull/1625717700000000000-1625718600000000000.csv", "min_dists": {"wc": 0.004408889337141823, "tap water": 0.003945814688270098}, "class": "wc"}
+{"filepath": "../data/dataFull/1625717700000000000-1625718600000000000.csv", "min_dists": {"wc": 0.005016535641435429, "tap water": 0.004552534508873341}, "class": "wc"}
+{"filepath": "../data/dataFull/1625717700000000000-1625718600000000000.csv", "min_dists": {"wc": 0.005768769326241723, "tap water": 0.004916123735983779}, "class": "wc"}
+{"filepath": "../data/dataFull/1625718600000000000-1625719500000000000.csv", "min_dists": {"wc": 0.008040267449951503, "tap water": 0.007525671617803757}, "class": "tap water"}
+{"filepath": "../data/dataFull/1625719500000000000-1625720400000000000.csv", "min_dists": {"wc": 0.005167571034170171, "tap water": 0.00438781707603749}, "class": "wc"}
+{"filepath": "../data/dataFull/1625719500000000000-1625720400000000000.csv", "min_dists": {"wc": 0.007859023893180902, "tap water": 0.005355527289016174}, "class": "tap water"}
+{"filepath": "../data/dataFull/1625719500000000000-1625720400000000000.csv", "min_dists": {"wc": 0.008646663962426965, "tap water": 0.008016458419439066}, "class": "tap water"}
+{"filepath": "../data/dataFull/1625721300000000000-1625722200000000000.csv", "min_dists": {"wc": 0.005946968823355123, "tap water": 0.004248372426060165}, "class": "wc"}
+{"filepath": "../data/dataFull/1625721300000000000-1625722200000000000.csv", "min_dists": {"wc": 0.005803533376717494, "tap water": 0.0038864807693484364}, "class": "wc"}
+{"filepath": "../data/dataFull/1625721300000000000-1625722200000000000.csv", "min_dists": {"wc": 0.006538473635838059, "tap water": 0.006722859440503292}, "class": "wc"}
+{"filepath": "../data/dataFull/1625721300000000000-1625722200000000000.csv", "min_dists": {"wc": 0.006238134917611709, "tap water": 0.005638139383429048}, "class": "tap water"}
+{"filepath": "../data/dataFull/1625721300000000000-1625722200000000000.csv", "min_dists": {"wc": 0.007403086822709774, "tap water": 0.0076732646448248}, "class": "tap water"}
+{"filepath": "../data/dataFull/1625721300000000000-1625722200000000000.csv", "min_dists": {"wc": 0.005659723564915212, "tap water": 0.005860699083127893}, "class": "tap water"}
+{"filepath": "../data/dataFull/1625721300000000000-1625722200000000000.csv", "min_dists": {"wc": 0.005787239092830032, "tap water": 0.00488982424271588}, "class": "tap water"}
+{"filepath": "../data/dataFull/1625721300000000000-1625722200000000000.csv", "min_dists": {"wc": 0.004730085922859738, "tap water": 0.0052662705010256905}, "class": "tap water"}
+{"filepath": "../data/dataFull/1625722200000000000-1625723100000000000.csv", "min_dists": {"wc": 0.009144979760246726, "tap water": 0.006088624509151602}, "class": "tap water"}
+{"filepath": "../data/dataFull/1625722200000000000-1625723100000000000.csv", "min_dists": {"wc": 0.004785592028027634, "tap water": 0.003649056049330302}, "class": "tap water"}
+{"filepath": "../data/dataFull/1625722200000000000-1625723100000000000.csv", "min_dists": {"wc": 0.00781362404121465, "tap water": 0.005983341426792197}, "class": "tap water"}
+{"filepath": "../data/dataFull/1625722200000000000-1625723100000000000.csv", "min_dists": {"wc": 0.009905650667309786, "tap water": 0.00896792922441877}, "class": "tap water"}
+{"filepath": "../data/dataFull/1625724000000000000-1625724900000000000.csv", "min_dists": {"wc": 0.006666668742025497, "tap water": 0.004769800502245521}, "class": "tap water"}
+{"filepath": "../data/dataFull/1625724000000000000-1625724900000000000.csv", "min_dists": {"wc": 0.01203175308969307, "tap water": 0.013165290350393419}, "class": "tap water"}
+{"filepath": "../data/dataFull/1625724900000000000-1625725800000000000.csv", "min_dists": {"wc": 0.005365700398472782, "tap water": 0.004841478720536421}, "class": "wc"}
+{"filepath": "../data/dataFull/1625724900000000000-1625725800000000000.csv", "min_dists": {"wc": 0.0050286229002375355, "tap water": 0.004540469187829163}, "class": "tap water"}
+{"filepath": "../data/dataFull/1625724900000000000-1625725800000000000.csv", "min_dists": {"wc": 0.006928765481157897, "tap water": 0.005243817945362557}, "class": "tap water"}
+{"filepath": "../data/dataFull/1625724900000000000-1625725800000000000.csv", "min_dists": {"wc": 0.004381444070134383, "tap water": 0.005257778280850143}, "class": "tap water"}
+{"filepath": "../data/dataFull/1625725800000000000-1625726700000000000.csv", "min_dists": {"wc": 0.005584233945208749, "tap water": 0.0032132069815398174}, "class": "wc"}
+{"filepath": "../data/dataFull/1625726700000000000-1625727600000000000.csv", "min_dists": {"wc": 0.00679932494365217, "tap water": 0.006859095328547158}, "class": "tap water"}
+{"filepath": "../data/dataFull/1625733000000000000-1625733900000000000.csv", "min_dists": {"wc": 0.005462710065788259, "tap water": 0.004456756632166919}, "class": "wc"}
+{"filepath": "../data/dataFull/1625733000000000000-1625733900000000000.csv", "min_dists": {"wc": 0.005103325549262626, "tap water": 0.004496573160711535}, "class": "tap water"}
+{"filepath": "../data/dataFull/1625735700000000000-1625736600000000000.csv", "min_dists": {"wc": 0.007054022535876072, "tap water": 0.006379424113690005}, "class": "tap water"}
+{"filepath": "../data/dataFull/1625765400000000000-1625766300000000000.csv", "min_dists": {"wc": 0.004468807006340413, "tap water": 0.004443711124101599}, "class": "wc"}
+{"filepath": "../data/dataFull/1625765400000000000-1625766300000000000.csv", "min_dists": {"wc": 10000, "tap water": 0.010275718443043137}, "class": "tap water"}
+{"filepath": "../data/dataFull/1625769900000000000-1625770800000000000.csv", "min_dists": {"wc": 0.0035434482783363672, "tap water": 0.003842947728673141}, "class": "wc"}
+{"filepath": "../data/dataFull/1625769900000000000-1625770800000000000.csv", "min_dists": {"wc": 0.005226235082002118, "tap water": 0.0037241814198963044}, "class": "wc"}
+{"filepath": "../data/dataFull/1625769900000000000-1625770800000000000.csv", "min_dists": {"wc": 0.005267278288013265, "tap water": 0.005081496348252433}, "class": "tap water"}
+{"filepath": "../data/dataFull/1625769900000000000-1625770800000000000.csv", "min_dists": {"wc": 0.006360199921207094, "tap water": 0.006773414745424287}, "class": "tap water"}
+{"filepath": "../data/dataFull/1625770800000000000-1625771700000000000.csv", "min_dists": {"wc": 0.0, "tap water": 0.004768366817591143}, "class": "wc"}
+{"filepath": "../data/dataFull/1625770800000000000-1625771700000000000.csv", "min_dists": {"wc": 0.0, "tap water": 0.004544715756988157}, "class": "wc"}
+{"filepath": "../data/dataFull/1625770800000000000-1625771700000000000.csv", "min_dists": {"wc": 0.0065572565197209495, "tap water": 0.0}, "class": "tap water"}
+{"filepath": "../data/dataFull/1625770800000000000-1625771700000000000.csv", "min_dists": {"wc": 0.005307731721757886, "tap water": 0.0}, "class": "tap water"}
+{"filepath": "../data/dataFull/1625771700000000000-1625772600000000000.csv", "min_dists": {"wc": 0.004927309679808748, "tap water": 0.003989817586598163}, "class": "wc"}
+{"filepath": "../data/dataFull/1625771700000000000-1625772600000000000.csv", "min_dists": {"wc": 0.011311702838417386, "tap water": 0.010441545878576692}, "class": "tap water"}
+{"filepath": "../data/dataFull/1625771700000000000-1625772600000000000.csv", "min_dists": {"wc": 0.00553246679887612, "tap water": 0.005412934981472261}, "class": "tap water"}
+{"filepath": "../data/dataFull/1625771700000000000-1625772600000000000.csv", "min_dists": {"wc": 0.006527284775572827, "tap water": 0.004992905803973376}, "class": "tap water"}
+{"filepath": "../data/dataFull/1625771700000000000-1625772600000000000.csv", "min_dists": {"wc": 0.00590755989430358, "tap water": 0.004384588381829505}, "class": "tap water"}
+{"filepath": "../data/dataFull/1625771700000000000-1625772600000000000.csv", "min_dists": {"wc": 0.004993267729437856, "tap water": 0.004686378357158126}, "class": "tap water"}
+{"filepath": "../data/dataFull/1625771700000000000-1625772600000000000.csv", "min_dists": {"wc": 0.00650010131237984, "tap water": 0.008426048079645336}, "class": "tap water"}
+{"filepath": "../data/dataFull/1625773500000000000-1625774400000000000.csv", "min_dists": {"wc": 0.003842700018266581, "tap water": 0.0038809060832864133}, "class": "wc"}
+{"filepath": "../data/dataFull/1625788800000000000-1625789700000000000.csv", "min_dists": {"wc": 0.006946083820936217, "tap water": 0.006365751756139213}, "class": "wc"}
+{"filepath": "../data/dataFull/1625788800000000000-1625789700000000000.csv", "min_dists": {"wc": 0.004995256720601737, "tap water": 0.0031793047336518177}, "class": "wc"}
+{"filepath": "../data/dataFull/1625792400000000000-1625793300000000000.csv", "min_dists": {"wc": 0.003906933044439307, "tap water": 0.0037502288256747837}, "class": "wc"}
+{"filepath": "../data/dataFull/1625792400000000000-1625793300000000000.csv", "min_dists": {"wc": 0.008011334032851355, "tap water": 0.007843090497869019}, "class": "tap water"}
+{"filepath": "../data/dataFull/1625793300000000000-1625794200000000000.csv", "min_dists": {"wc": 0.013676050808148588, "tap water": 0.014465998045797977}, "class": "tap water"}
+{"filepath": "../data/dataFull/1625794200000000000-1625795100000000000.csv", "min_dists": {"wc": 0.009486180602000472, "tap water": 0.006906090018636842}, "class": "tap water"}
+{"filepath": "../data/dataFull/1625795100000000000-1625796000000000000.csv", "min_dists": {"wc": 0.0040552646833140575, "tap water": 0.005259002244448842}, "class": "tap water"}
+{"filepath": "../data/dataFull/1625796900000000000-1625797800000000000.csv", "min_dists": {"wc": 0.006400334414022334, "tap water": 0.006248607267452323}, "class": "tap water"}
+{"filepath": "../data/dataFull/1625799600000000000-1625800500000000000.csv", "min_dists": {"wc": 0.004945251057889754, "tap water": 0.004760309284501448}, "class": "tap water"}
+{"filepath": "../data/dataFull/1625803200000000000-1625804100000000000.csv", "min_dists": {"wc": 0.0058617369159988586, "tap water": 0.005277450591299031}, "class": "wc"}
+{"filepath": "../data/dataFull/1625803200000000000-1625804100000000000.csv", "min_dists": {"wc": 0.004288345400385895, "tap water": 0.003840315095168718}, "class": "wc"}
+{"filepath": "../data/dataFull/1625805900000000000-1625806800000000000.csv", "min_dists": {"wc": 0.004505096824744027, "tap water": 0.0035988389749360616}, "class": "wc"}
+{"filepath": "../data/dataFull/1625805900000000000-1625806800000000000.csv", "min_dists": {"wc": 0.005117307403561588, "tap water": 0.0054958425262942034}, "class": "wc"}
+{"filepath": "../data/dataFull/1625805900000000000-1625806800000000000.csv", "min_dists": {"wc": 0.0064824881309449535, "tap water": 0.00517179991709315}, "class": "tap water"}
+{"filepath": "../data/dataFull/1625805900000000000-1625806800000000000.csv", "min_dists": {"wc": 0.004686817020722318, "tap water": 0.004715745472331513}, "class": "tap water"}
+{"filepath": "../data/dataFull/1625806800000000000-1625807700000000000.csv", "min_dists": {"wc": 10000, "tap water": 0.009097223815403736}, "class": "tap water"}
+{"filepath": "../data/dataFull/1625806800000000000-1625807700000000000.csv", "min_dists": {"wc": 0.006943837345194002, "tap water": 0.004828972947808882}, "class": "tap water"}
+{"filepath": "../data/dataFull/1625806800000000000-1625807700000000000.csv", "min_dists": {"wc": 0.008133660116259024, "tap water": 0.007209880375675433}, "class": "tap water"}
+{"filepath": "../data/dataFull/1625807700000000000-1625808600000000000.csv", "min_dists": {"wc": 0.0, "tap water": 0.006333651921998564}, "class": "wc"}
+{"filepath": "../data/dataFull/1625807700000000000-1625808600000000000.csv", "min_dists": {"wc": 0.0, "tap water": 0.004700710238122546}, "class": "wc"}
+{"filepath": "../data/dataFull/1625807700000000000-1625808600000000000.csv", "min_dists": {"wc": 0.0, "tap water": 0.005009030345134053}, "class": "wc"}
+{"filepath": "../data/dataFull/1625807700000000000-1625808600000000000.csv", "min_dists": {"wc": 0.0, "tap water": 0.005197280643917505}, "class": "wc"}
+{"filepath": "../data/dataFull/1625807700000000000-1625808600000000000.csv", "min_dists": {"wc": 0.0, "tap water": 0.0055377597105173305}, "class": "wc"}
+{"filepath": "../data/dataFull/1625807700000000000-1625808600000000000.csv", "min_dists": {"wc": 0.0, "tap water": 0.0076193386430443025}, "class": "wc"}
+{"filepath": "../data/dataFull/1625807700000000000-1625808600000000000.csv", "min_dists": {"wc": 0.006047357673197739, "tap water": 0.0}, "class": "tap water"}
+{"filepath": "../data/dataFull/1625807700000000000-1625808600000000000.csv", "min_dists": {"wc": 0.006629902994935618, "tap water": 0.0}, "class": "tap water"}
+{"filepath": "../data/dataFull/1625807700000000000-1625808600000000000.csv", "min_dists": {"wc": 0.005246861592434028, "tap water": 0.0}, "class": "tap water"}
+{"filepath": "../data/dataFull/1625808600000000000-1625809500000000000.csv", "min_dists": {"wc": 0.004052070879210435, "tap water": 0.0043090661239659125}, "class": "wc"}
+{"filepath": "../data/dataFull/1625808600000000000-1625809500000000000.csv", "min_dists": {"wc": 0.005358974824784055, "tap water": 0.005535005344866242}, "class": "tap water"}
+{"filepath": "../data/dataFull/1625809500000000000-1625810400000000000.csv", "min_dists": {"wc": 10000, "tap water": 10000}, "class": "tap water"}
+{"filepath": "../data/dataFull/1625809500000000000-1625810400000000000.csv", "min_dists": {"wc": 0.01048090347399711, "tap water": 0.005990415280918793}, "class": "tap water"}
+{"filepath": "../data/dataFull/1625809500000000000-1625810400000000000.csv", "min_dists": {"wc": 0.005132170710814478, "tap water": 0.0046706115725202255}, "class": "tap water"}
+{"filepath": "../data/dataFull/1625809500000000000-1625810400000000000.csv", "min_dists": {"wc": 0.005133042998835669, "tap water": 0.006112019289072602}, "class": "tap water"}
+{"filepath": "../data/dataFull/1625809500000000000-1625810400000000000.csv", "min_dists": {"wc": 0.0045496341855096635, "tap water": 0.005376400653486458}, "class": "tap water"}
+{"filepath": "../data/dataFull/1625809500000000000-1625810400000000000.csv", "min_dists": {"wc": 0.006592296035730253, "tap water": 0.005226826726842095}, "class": "tap water"}
+{"filepath": "../data/dataFull/1625809500000000000-1625810400000000000.csv", "min_dists": {"wc": 0.006237737366387555, "tap water": 0.005008442899333868}, "class": "tap water"}
+{"filepath": "../data/dataFull/1625809500000000000-1625810400000000000.csv", "min_dists": {"wc": 0.006632790375260854, "tap water": 0.005334229909567437}, "class": "tap water"}
+{"filepath": "../data/dataFull/1625809500000000000-1625810400000000000.csv", "min_dists": {"wc": 0.005324927607640923, "tap water": 0.00788170786621341}, "class": "tap water"}
+{"filepath": "../data/dataFull/1625809500000000000-1625810400000000000.csv", "min_dists": {"wc": 0.005337172440496078, "tap water": 0.006837667447204304}, "class": "tap water"}
+{"filepath": "../data/dataFull/1625809500000000000-1625810400000000000.csv", "min_dists": {"wc": 0.005661627372501227, "tap water": 0.00503070072000669}, "class": "tap water"}
+{"filepath": "../data/dataFull/1625809500000000000-1625810400000000000.csv", "min_dists": {"wc": 0.005376925358485376, "tap water": 0.007481370020559939}, "class": "tap water"}
+{"filepath": "../data/dataFull/1625854500000000000-1625855400000000000.csv", "min_dists": {"wc": 0.00552529842734047, "tap water": 0.0055806636137464075}, "class": "wc"}
+{"filepath": "../data/dataFull/1625854500000000000-1625855400000000000.csv", "min_dists": {"wc": 0.005210123337958252, "tap water": 0.00511558326282482}, "class": "wc"}
+{"filepath": "../data/dataFull/1625854500000000000-1625855400000000000.csv", "min_dists": {"wc": 0.004933552000458751, "tap water": 0.004099188956958107}, "class": "wc"}
+{"filepath": "../data/dataFull/1625854500000000000-1625855400000000000.csv", "min_dists": {"wc": 0.005008849883397227, "tap water": 0.004685133369778733}, "class": "wc"}
+{"filepath": "../data/dataFull/1625854500000000000-1625855400000000000.csv", "min_dists": {"wc": 0.0032929068460520136, "tap water": 0.004083645612207693}, "class": "wc"}
+{"filepath": "../data/dataFull/1625854500000000000-1625855400000000000.csv", "min_dists": {"wc": 0.006921527327200313, "tap water": 0.008429933268637908}, "class": "tap water"}
+{"filepath": "../data/dataFull/1625856300000000000-1625857200000000000.csv", "min_dists": {"wc": 0.006912548604615104, "tap water": 0.0038558669369992415}, "class": "tap water"}
+{"filepath": "../data/dataFull/1625859000000000000-1625859900000000000.csv", "min_dists": {"wc": 0.005843285632202712, "tap water": 0.0049738189022591126}, "class": "wc"}
+{"filepath": "../data/dataFull/1625861700000000000-1625862600000000000.csv", "min_dists": {"wc": 0.004599501505020034, "tap water": 0.005488396428801158}, "class": "wc"}
+{"filepath": "../data/dataFull/1625862600000000000-1625863500000000000.csv", "min_dists": {"wc": 0.004638678303703701, "tap water": 0.0032105489381251875}, "class": "wc"}
+{"filepath": "../data/dataFull/1625862600000000000-1625863500000000000.csv", "min_dists": {"wc": 0.006264966672190079, "tap water": 0.00530152257242937}, "class": "wc"}
+{"filepath": "../data/dataFull/1625862600000000000-1625863500000000000.csv", "min_dists": {"wc": 0.006210969423899528, "tap water": 0.006830157850749285}, "class": "tap water"}
+{"filepath": "../data/dataFull/1625863500000000000-1625864400000000000.csv", "min_dists": {"wc": 0.005807960768805338, "tap water": 0.005533988119516908}, "class": "wc"}
+{"filepath": "../data/dataFull/1625868900000000000-1625869800000000000.csv", "min_dists": {"wc": 0.005524899164606466, "tap water": 0.0045409843352268815}, "class": "wc"}

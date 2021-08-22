@@ -1,0 +1,12 @@
+[Unit]
+Description=Watermonitoring python service SaveData
+After=multi-user.target
+
+[Service]
+User=pi
+ExecStart=/usr/bin/python3 /home/pi/watermonitor/recording/SaveData.py
+Restart=on-failure
+RestartSec=60s 
+
+[Install]
+WantedBy=multi-user.target

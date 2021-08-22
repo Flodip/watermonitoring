@@ -1,0 +1,13 @@
+[Unit]
+Description=InfluxDB 2.0 service file.
+Documentation=https://v2.docs.influxdata.com/v2.0/get-started/
+After=network-online.target
+
+[Service]
+User=pi
+ExecStart=/home/pi/influxdb2.0.6/influxd --bolt-path=/home/pi/usbStick/influxd.bolt --engine-path=/home/pi/usbStick/engine
+Restart=on-failure
+RestartSec=60s 
+
+[Install]
+WantedBy=multi-user.target
