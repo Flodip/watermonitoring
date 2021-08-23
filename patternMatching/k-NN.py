@@ -42,36 +42,6 @@ def fft_filter_func(a):
     ires = np.fft.irfft(res)
     return ires
 
-# Best code ever, but unused
-def fft_analysis(x_signal, signal):
-
-    T = 1.0 / 50.0
-    N = len(signal)
-
-    f = np.linspace(0, 1.0/(2.0*T), int(N/2))
-    res = np.fft.rfft(signal - np.mean(signal))
-
-    fig_noisy, axs_noisy = plt.subplots(2)
-    axs_noisy[0].plot(x_signal, signal)
-    axs_noisy[1].plot(f, 2.0 / N * np.abs(res[:int(N/2)]))
-
-    my_filter = np.bitwise_or(f < 0.1, f > 15)
-    power_filter = np.abs(res[:int(N/2)]) < 10
-    ind = np.where(my_filter)
-    res[ind] = 0
-    ind2 = np.where(power_filter)
-    res[ind2] = 0
-
-    ires = np.fft.irfft(res)
-
-    fig_filt, axs_filt = plt.subplots(2)
-    axs_filt[0].plot(x_signal, ires)
-    axs_filt[1].plot(f, 2.0 / N * np.abs(res[:int(N/2)]))
-
-    plt.legend()
-
-    plt.show()
-
 
 def fit_sine_curve_freq(x, y, guess_f=guess_fft):
     """
