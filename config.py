@@ -17,3 +17,10 @@ file_paths = {
     "data": ["../data/water/", "../data/dataPool/08-07/", "../data/dataPool/09-07/", "../data/dataPool/10-07/"],
     "csv_output_folder": "../data/dataPool/"
 }
+sine_fit = {
+    "min_freq": 0.2,
+    "max_freq": 20,
+    "min_diff": 0.08,  # the min value diff between 2 points in an interval
+    "min_amplitude": 0.03,
+    "max_amplitude": 0.08
+}

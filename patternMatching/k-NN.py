@@ -3,7 +3,7 @@ import numpy as np
 import sys
 sys.path.append("../recording")
 sys.path.append("../")
-from CleanData import guess_fft, sin_fit
+from SineFit import guess_fft, sin_fit
 from math import sqrt
 
 matplotlib.use('tkAgg')
